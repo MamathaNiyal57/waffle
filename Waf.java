@@ -13,4 +13,10 @@ public class Waf
     {
         int value = sum/2;
     }
+
+    public static int multiply(int value,int height)
+    {
+        int ans = value * height;
+        return ans;
+    }
 }
